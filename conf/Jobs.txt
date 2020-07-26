@@ -1,0 +1,30 @@
+Job History
+
+Steps :
+	1. java -jar OOH-1.0.0-1.0-SNAPSHOT.jar schemaserver  [start schemaserver] 
+    2. java -jar OOH-1.0.0-1.0-SNAPSHOT.jar load		  [Load cube/ Create Default Cube]
+	3. java -jar OOH-1.0.0-1.0-SNAPSHOT.jar gen			  [Generate Random data]
+	4. java -jar OOH-1.0.0-1.0-SNAPSHOT.jar job 0,0,0 1,1,1 logic [ 0 - Old logic / 1 - New Logic ]
+	5. java -jar OOH-1.0.0-1.0-SNAPSHOT.jar exec E:\query.xml 0 
+	
+
+Execute Jobs	
+	java -jar OOH-1.0.0-1.0-SNAPSHOT.jar exec E:\query.xml 0
+	java -jar OOH-1.0.0-1.0-SNAPSHOT.jar exec E:\query.xml 1
+	
+	
+	
+	
+job 0,0,0 149,255,499 0  59mins, 4sec - 2mins, 33sec - 1mins, 26sec
+job 0,0,0 149,255,499 1  16mins, 50sec - 28sec - 29sec   , 11mins, 56sec  - 35sec - 43sec - 0sec
+
+java -jar OOH-1.0.0-1.0-SNAPSHOT.jar job 0,0,0 149,255,499 0
+n
+job 0,0,0 371,149,499 0
+job 0,0,0 371,149,499 1
+
+job 0,0,0 371,255,499
+job 0,0,0 371,255,499
+
+
+372,256,500

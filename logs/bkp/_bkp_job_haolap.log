@@ -1,0 +1,925 @@
+3
+<0,0,0> <1,33,33> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=f84d27889b5269d55d3db6e171cdd86a_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=f84d27889b5269d55d3db6e171cdd86a_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=f84d27889b5269d55d3db6e171cdd86a_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=26605
+3
+<0,0,0> <1,33,33> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=3e5dfd8703d2babd1d33c450b2778afe_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=3e5dfd8703d2babd1d33c450b2778afe_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=3e5dfd8703d2babd1d33c450b2778afe_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=28136
+3
+<0,0,0> <1,33,33> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=9dd97dca56b5dceb3d5e166287be1122_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=9dd97dca56b5dceb3d5e166287be1122_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=9dd97dca56b5dceb3d5e166287be1122_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=27601
+3
+<0,0,0> <1,33,33> <1> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=313268e4e6a6a5a2b7684947d45b793e_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=313268e4e6a6a5a2b7684947d45b793e_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=313268e4e6a6a5a2b7684947d45b793e_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=1]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=1, begin=0, orderNumber=1];Level [name=day, length=2, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+NEW Logic
+Time=27086
+3
+<0,0,0> <33,33,33> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=6114b532d02ca46d408aab3c82b24a13_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=6114b532d02ca46d408aab3c82b24a13_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=6114b532d02ca46d408aab3c82b24a13_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=29639
+3
+<0,0,0> <33,33,33> <1> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=4894ab0a810e3eed35842c9976f05c71_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=4894ab0a810e3eed35842c9976f05c71_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=4894ab0a810e3eed35842c9976f05c71_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+NEW Logic
+Time=29813
+3
+<0,0,0> <33,33,33> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=8745198b7294f6b2bbfd62ffb16e0ee3_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=8745198b7294f6b2bbfd62ffb16e0ee3_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=8745198b7294f6b2bbfd62ffb16e0ee3_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Mapper Closed
+Reducer Closed
+Time=10629
+3
+<0,0,0> <33,33,33> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=59b1e811b04d61fc2706edaa5818a922_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=59b1e811b04d61fc2706edaa5818a922_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=59b1e811b04d61fc2706edaa5818a922_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=58726
+3
+<0,0,0> <33,33,33> <1> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=31fab3702f28cd819c4a56ead90004f9_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=31fab3702f28cd819c4a56ead90004f9_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=31fab3702f28cd819c4a56ead90004f9_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=33]}, levels={Level [name=year, length=4, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=33]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=33]}, levels={Level [name=50m, length=1, begin=0, orderNumber=0];Level [name=10m, length=4, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	
+from page position: 0,0,2,	
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+NEW Logic
+Time=56657
+3
+<0,10,0> <5,30,99> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=4190bbce781857b9972f13e797f74540_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=4190bbce781857b9972f13e797f74540_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=4190bbce781857b9972f13e797f74540_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=75378
+3
+<0,10,0> <5,30,99> <1> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=a2af43698bd0ff33c53d761083171aea_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=a2af43698bd0ff33c53d761083171aea_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=a2af43698bd0ff33c53d761083171aea_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=5]}, levels={Level [name=year, length=1, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+NEW Logic
+Time=67693
+3
+<15,10,0> <20,30,99> <0> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=92d53d7e80b3fca478e66af1ebd62804_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=92d53d7e80b3fca478e66af1ebd62804_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=92d53d7e80b3fca478e66af1ebd62804_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+OLD Logic
+Time=70109
+3
+<15,10,0> <20,30,99> <1> 9510
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+
+lengths: 	Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}]
+Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}]
+Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}]
+
+Schema [name=timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=0, end=99]}, levels={Level [name=year, length=10, begin=0, orderNumber=0];Level [name=month, length=2, begin=0, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=0, end=99]}, levels={Level [name=one, length=5, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=0, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=291baba249b114c6ae557db0507ed96f_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+Schema [name=291baba249b114c6ae557db0507ed96f_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+Schema [name=291baba249b114c6ae557db0507ed96f_timeAreaDepth, dimensions={Dimension [name=Time, orderNumber=0, range={DimensionRange [start=15, end=20]}, levels={Level [name=year, length=2, begin=1, orderNumber=0];Level [name=month, length=2, begin=1, orderNumber=1];Level [name=day, length=5, begin=0, orderNumber=2];}];Dimension [name=Area, orderNumber=1, range={DimensionRange [start=10, end=30]}, levels={Level [name=one, length=2, begin=0, orderNumber=0];Level [name=oneForth, length=10, begin=5, orderNumber=1];Level [name=oneSixteenth, length=2, begin=0, orderNumber=2];}];Dimension [name=Depth, orderNumber=2, range={DimensionRange [start=0, end=99]}, levels={Level [name=50m, length=2, begin=0, orderNumber=0];Level [name=10m, length=5, begin=0, orderNumber=1];Level [name=1m, length=10, begin=0, orderNumber=2];}];}]
+from page position: 0,0,0,	selected
+from page position: 0,0,1,	selected
+from page position: 0,0,2,	selected
+from page position: 0,1,0,	
+from page position: 0,1,1,	
+from page position: 0,1,2,	
+from page position: 0,2,0,	
+from page position: 0,2,1,	
+from page position: 0,2,2,	
+from page position: 1,0,0,	
+from page position: 1,0,1,	
+from page position: 1,0,2,	
+from page position: 1,1,0,	
+from page position: 1,1,1,	
+from page position: 1,1,2,	
+from page position: 1,2,0,	
+from page position: 1,2,1,	
+from page position: 1,2,2,	
+from page position: 2,0,0,	
+from page position: 2,0,1,	
+from page position: 2,0,2,	
+from page position: 2,1,0,	
+from page position: 2,1,1,	
+from page position: 2,1,2,	
+from page position: 2,2,0,	
+from page position: 2,2,1,	
+from page position: 2,2,2,	
+NEW Logic
+Time=66314

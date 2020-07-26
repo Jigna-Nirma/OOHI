@@ -1,0 +1,174 @@
+9510
+numberOfElements: 1000000
+numberOfPages:27
+dimensionLength [100, 100, 100]
+pageLengths:[34, 34, 34]
+numberOfPageSegmentsInDimension:[3, 3, 3]
+Page:	0	start:	[0, 0, 0]	end:	[33, 33, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/0 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/0/0_0_0_33_33_33.blc written.
+Page:	1	start:	[0, 0, 34]	end:	[33, 33, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/1 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/1/0_0_34_33_33_67.blc written.
+Page:	2	start:	[0, 0, 68]	end:	[33, 33, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/2 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/2/0_0_68_33_33_101.blc written.
+Page:	3	start:	[0, 34, 0]	end:	[33, 67, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/3 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/3/0_34_0_33_67_33.blc written.
+Page:	4	start:	[0, 34, 34]	end:	[33, 67, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/4 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/4/0_34_34_33_67_67.blc written.
+Page:	5	start:	[0, 34, 68]	end:	[33, 67, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/5 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/5/0_34_68_33_67_101.blc written.
+Page:	6	start:	[0, 68, 0]	end:	[33, 101, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/6 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/6/0_68_0_33_101_33.blc written.
+Page:	7	start:	[0, 68, 34]	end:	[33, 101, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/7 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/7/0_68_34_33_101_67.blc written.
+Page:	8	start:	[0, 68, 68]	end:	[33, 101, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/8 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/8/0_68_68_33_101_101.blc written.
+Page:	9	start:	[34, 0, 0]	end:	[67, 33, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/9 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/9/34_0_0_67_33_33.blc written.
+Page:	10	start:	[34, 0, 34]	end:	[67, 33, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/10 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/10/34_0_34_67_33_67.blc written.
+Page:	11	start:	[34, 0, 68]	end:	[67, 33, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/11 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/11/34_0_68_67_33_101.blc written.
+Page:	12	start:	[34, 34, 0]	end:	[67, 67, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/12 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/12/34_34_0_67_67_33.blc written.
+Page:	13	start:	[34, 34, 34]	end:	[67, 67, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/13 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/13/34_34_34_67_67_67.blc written.
+Page:	14	start:	[34, 34, 68]	end:	[67, 67, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/14 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/14/34_34_68_67_67_101.blc written.
+Page:	15	start:	[34, 68, 0]	end:	[67, 101, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/15 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/15/34_68_0_67_101_33.blc written.
+Page:	16	start:	[34, 68, 34]	end:	[67, 101, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/16 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/16/34_68_34_67_101_67.blc written.
+Page:	17	start:	[34, 68, 68]	end:	[67, 101, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/17 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/17/34_68_68_67_101_101.blc written.
+Page:	18	start:	[68, 0, 0]	end:	[101, 33, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/18 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/18/68_0_0_101_33_33.blc written.
+Page:	19	start:	[68, 0, 34]	end:	[101, 33, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/19 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/19/68_0_34_101_33_67.blc written.
+Page:	20	start:	[68, 0, 68]	end:	[101, 33, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/20 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/20/68_0_68_101_33_101.blc written.
+Page:	21	start:	[68, 34, 0]	end:	[101, 67, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/21 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/21/68_34_0_101_67_33.blc written.
+Page:	22	start:	[68, 34, 34]	end:	[101, 67, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/22 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/22/68_34_34_101_67_67.blc written.
+Page:	23	start:	[68, 34, 68]	end:	[101, 67, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/23 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/23/68_34_68_101_67_101.blc written.
+Page:	24	start:	[68, 68, 0]	end:	[101, 101, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/24 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/24/68_68_0_101_101_33.blc written.
+Page:	25	start:	[68, 68, 34]	end:	[101, 101, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/25 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/25/68_68_34_101_101_67.blc written.
+Page:	26	start:	[68, 68, 68]	end:	[101, 101, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/26 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/26/68_68_68_101_101_101.blc written.
+9510
+numberOfElements: 1000000
+numberOfPages:27
+dimensionLength [100, 100, 100]
+pageLengths:[34, 34, 34]
+numberOfPageSegmentsInDimension:[3, 3, 3]
+Page:	0	start:	[0, 0, 0]	end:	[33, 33, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/0 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/0/0_0_0_33_33_33.blc written.
+Page:	1	start:	[0, 0, 34]	end:	[33, 33, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/1 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/1/0_0_34_33_33_67.blc written.
+Page:	2	start:	[0, 0, 68]	end:	[33, 33, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/2 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/2/0_0_68_33_33_101.blc written.
+Page:	3	start:	[0, 34, 0]	end:	[33, 67, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/3 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/3/0_34_0_33_67_33.blc written.
+Page:	4	start:	[0, 34, 34]	end:	[33, 67, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/4 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/4/0_34_34_33_67_67.blc written.
+Page:	5	start:	[0, 34, 68]	end:	[33, 67, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/5 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/5/0_34_68_33_67_101.blc written.
+Page:	6	start:	[0, 68, 0]	end:	[33, 101, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/6 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/6/0_68_0_33_101_33.blc written.
+Page:	7	start:	[0, 68, 34]	end:	[33, 101, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/7 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/7/0_68_34_33_101_67.blc written.
+Page:	8	start:	[0, 68, 68]	end:	[33, 101, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/8 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/8/0_68_68_33_101_101.blc written.
+Page:	9	start:	[34, 0, 0]	end:	[67, 33, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/9 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/9/34_0_0_67_33_33.blc written.
+Page:	10	start:	[34, 0, 34]	end:	[67, 33, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/10 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/10/34_0_34_67_33_67.blc written.
+Page:	11	start:	[34, 0, 68]	end:	[67, 33, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/11 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/11/34_0_68_67_33_101.blc written.
+Page:	12	start:	[34, 34, 0]	end:	[67, 67, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/12 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/12/34_34_0_67_67_33.blc written.
+Page:	13	start:	[34, 34, 34]	end:	[67, 67, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/13 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/13/34_34_34_67_67_67.blc written.
+Page:	14	start:	[34, 34, 68]	end:	[67, 67, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/14 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/14/34_34_68_67_67_101.blc written.
+Page:	15	start:	[34, 68, 0]	end:	[67, 101, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/15 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/15/34_68_0_67_101_33.blc written.
+Page:	16	start:	[34, 68, 34]	end:	[67, 101, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/16 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/16/34_68_34_67_101_67.blc written.
+Page:	17	start:	[34, 68, 68]	end:	[67, 101, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/17 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/17/34_68_68_67_101_101.blc written.
+Page:	18	start:	[68, 0, 0]	end:	[101, 33, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/18 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/18/68_0_0_101_33_33.blc written.
+Page:	19	start:	[68, 0, 34]	end:	[101, 33, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/19 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/19/68_0_34_101_33_67.blc written.
+Page:	20	start:	[68, 0, 68]	end:	[101, 33, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/20 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/20/68_0_68_101_33_101.blc written.
+Page:	21	start:	[68, 34, 0]	end:	[101, 67, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/21 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/21/68_34_0_101_67_33.blc written.
+Page:	22	start:	[68, 34, 34]	end:	[101, 67, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/22 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/22/68_34_34_101_67_67.blc written.
+Page:	23	start:	[68, 34, 68]	end:	[101, 67, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/23 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/23/68_34_68_101_67_101.blc written.
+Page:	24	start:	[68, 68, 0]	end:	[101, 101, 33]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/24 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/24/68_68_0_101_101_33.blc written.
+Page:	25	start:	[68, 68, 34]	end:	[101, 101, 67]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/25 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/25/68_68_34_101_101_67.blc written.
+Page:	26	start:	[68, 68, 68]	end:	[101, 101, 101]
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/baseCube/26 written.
+HAOLAP-Test-Case/Test_100_4_SEG_MAVEN_SEQ/CubeElement/Blocks/26/68_68_68_101_101_101.blc written.
